@@ -1,8 +1,0 @@
-C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope\bin\Debug\dapper-transaction-scope.exe.config
-C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope\bin\Debug\dapper-transaction-scope.exe
-C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope\bin\Debug\dapper-transaction-scope.pdb
-C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope\bin\Debug\Dapper.dll
-C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope\bin\Debug\Dapper.xml
-C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope\obj\Debug\dapper-transaction-scope.csprojResolveAssemblyReference.cache
-C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope\obj\Debug\dapper-transaction-scope.exe
-C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope\obj\Debug\dapper-transaction-scope.pdb
