@@ -1,0 +1,9 @@
+C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope-db\bin\Debug\dapper-transaction-scope-db.dacpac
+C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope-db\bin\Debug\dapper_transaction_scope_db.dll
+C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope-db\bin\Debug\dapper_transaction_scope_db.pdb
+C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope-db\obj\Debug\dapper_transaction_scope_db.dll
+C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope-db\obj\Debug\dapper_transaction_scope_db.pdb
+C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope-db\obj\Debug\Model.xml
+C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope-db\obj\Debug\refactor.xml
+C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope-db\obj\Debug\postdeploy.sql
+C:\repo\github\consult-with-mike\pocs\dapper-transaction-scope\dapper-transaction-scope-db\obj\Debug\predeploy.sql

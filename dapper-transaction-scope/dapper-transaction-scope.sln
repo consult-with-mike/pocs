@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dapper-transaction-scope", "dapper-transaction-scope\dapper-transaction-scope.csproj", "{0FD9CBF1-8FFE-4621-9074-41A6035743DB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "dapper-transaction-scope-db", "dapper-transaction-scope-db\dapper-transaction-scope-db.sqlproj", "{E8945362-A43D-460F-9AC4-3E548ED4FE99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD9CBF1-8FFE-4621-9074-41A6035743DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD9CBF1-8FFE-4621-9074-41A6035743DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD9CBF1-8FFE-4621-9074-41A6035743DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD9CBF1-8FFE-4621-9074-41A6035743DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8945362-A43D-460F-9AC4-3E548ED4FE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8945362-A43D-460F-9AC4-3E548ED4FE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8945362-A43D-460F-9AC4-3E548ED4FE99}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E8945362-A43D-460F-9AC4-3E548ED4FE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8945362-A43D-460F-9AC4-3E548ED4FE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8945362-A43D-460F-9AC4-3E548ED4FE99}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
